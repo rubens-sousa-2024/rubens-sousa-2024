@@ -2,7 +2,7 @@
 👋 Olá! Sou o **Rubens Sousa** e estou em transição de carreira. Recentemente, fui aprovado no programa Santander Coders, que teve mais de 81 mil inscritos e apenas 300 selecionados após um rigoroso processo com mais de 5 etapas. Atualmente, estou cursando Engenharia de Dados na ADA e animado com essa nova jornada profissional. 
  
  - #### Em busca de uma colocação na área de Engenharia de Dados | Python | Data Engineer
- - #### *Compartilho ideias e padrões de projetos corporativos. Espero que este perfil possa te ajudar!*
+ - #### *Compartilho projetos de um pequeno gafanhoto na área de programação. Espero que este perfil possa te ajudar!*
 
 ### Lista de Qualificações e Experiências
 - Formado em Sistemas de Informações
