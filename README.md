@@ -21,7 +21,12 @@
       <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
 
-
+### Links para Redes Sociais e Contato
+<div align=""center"">
+      <a href="https://www.linkedin.com/in/rubens-sousa-8841b175?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+      </a>
+</div>
 
 <!---
 rubens-sousa-2024/rubens-sousa-2024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
