@@ -15,17 +15,11 @@
 <div>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> 
-      <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!PNG/html5.png" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!PNG/mysql.png"/>
       <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  
-● Banco de dados;
-● Redes e Sistemas
-● Introdução ao Cloud Computing;
-● Conteinerização com Docker;
-● Git e versionamento;
-
-  https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
+      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+ 
 </div>
 
 
